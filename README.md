@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![wang0826jj's GitHub stats](https://github-readme-stats.vercel.app/api?username=wang0826jj)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wang0826jj/wang0826jj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
