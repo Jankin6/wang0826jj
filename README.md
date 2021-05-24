@@ -1,4 +1,4 @@
-![wang0826jj's GitHub stats](https://github-readme-stats.vercel.app/api?username=wang0826jj&show_icons=true&theme=highcontrast&bg_color=45,a06443,20ae95&hide=contribs,commits)
+![wang0826jj's GitHub stats](https://github-readme-stats.vercel.app/api?username=wang0826jj&show_icons=true&theme=vue&hide=contribs,commits)
 <!--
 **wang0826jj/wang0826jj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
